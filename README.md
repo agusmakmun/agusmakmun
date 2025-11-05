@@ -2,7 +2,7 @@
 
 ### SDE lead, Backend Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agusmakmun&label=Profile views&color=0e75b6&style=flat" alt="agusmakmun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agusmakmun&style=flat" alt="agusmakmun" /> </p>
 
 - 🔭 I'm currently working on **a Hysn Pte, ltd.**
 
