@@ -1,6 +1,6 @@
 # Hi 👋, I'm Agus
 
-### SDE lead, backend specialist
+### SDE lead, Backend Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusmakmun&label=Profile views&color=0e75b6&style=flat" alt="agusmakmun" /> </p>
 
