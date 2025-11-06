@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Django, Stocks related.**
 
-- ⚡ Fun fact **I realized that I'm introvert**
+- ⚡ Fun fact **I realized that I'm an introvert**
 
 - 📝 I regularly write articles on **[https://agusmakmun.github.io](https://agusmakmun.github.io)**
 
