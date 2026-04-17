@@ -1,13 +1,13 @@
 # Hi 👋, I'm Agus
 
-### SDE Lead, Backend Specialist
+### SDE Lead
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=agusmakmun&style=flat" alt="agusmakmun" />
 </p>
 
 - 🔭 I'm currently working on **Design Shifu**, sister company of **Hysn Pte. Ltd.**
-- 💬 Ask me about **Python, Django, Stocks**
+- 💬 Ask me about **Frontend, Backend, Stocks, Business, Financials**
 - ⚡ Fun fact: **I'm an introvert**
 - 📝 I regularly write articles on **https://agusmakmun.github.io**
 
@@ -15,7 +15,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://github.com/agusmakmun" target="_blank">
+  <a href="https://github.com/agusmakmun/askme/issues/new" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
   <a href="https://linkedin.com/in/agusmakmun" target="_blank">
@@ -30,7 +30,7 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,django,docker,fastapi,flask,git,grafana,html,js,jest,kubernetes,linux,mongodb,mysql,nextjs,nginx,postgres,postman,py,react,redis,selenium,sqlite,ts&perline=12" />
+  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,django,docker,fastapi,flask,git,grafana,html,js,jest,kubernetes,linux,mongodb,mysql,nextjs,nginx,postgres,postman,py,react,redis,selenium,sqlite,ts,vercel,supabase&perline=12" />
 </p>
 
 ---
