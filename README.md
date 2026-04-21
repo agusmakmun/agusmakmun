@@ -8,7 +8,6 @@
 
 - 🔭 I'm currently working on **Design Shifu**, sister company of **Hysn Pte. Ltd.**
 - 💬 Ask me about **Frontend, Backend, Stocks, Business, Financials**
-- ⚡ Fun fact: **I'm an introvert**
 - 📝 I regularly write articles on **https://agusmakmun.github.io**
 
 ---
