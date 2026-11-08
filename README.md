@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
   <img src="https://img.shields.io/badge/Semgrep-2D3748?style=for-the-badge&logo=semgrep&logoColor=white" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
   <img src="https://img.shields.io/badge/Gitleaks-D22128?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
