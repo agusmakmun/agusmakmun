@@ -14,7 +14,7 @@
   - 🎨 Redesigned the overall internal dashboard
   - 🔒 Maintain the stability and security of the platforms
   - 🚀 Deliver many client and internal features
-- 💬 Ask me about **Frontend, Backend, Stocks, Business, Financials**
+- 💬 Ask me about **Frontend, Backend, Infrastructure, Stocks, Business, Financials**
 - 📝 I regularly write articles on **https://agusmakmun.github.io**
 - 🛡️ Certified **DevSecOps Professional (CDP)** & **API Security Professional (CASP)**
 
